@@ -1,4 +1,4 @@
-var words = ["america", "europe", "africa", "southamerica", "asia"];
+var words = ["america", "europe", "africa", "southamerica", "asia", "france", "italy", "russia", "china", "brazil", "canada", "mexico", "germany", "libya", "lebanon", "iraq", "chile", "northkorea", "australia" ];
 var word = words[Math.floor(Math.random() * words.length)];
 var otherLetters = word.length;
 var lettersGuessed = [];
